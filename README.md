@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ffffff,50:ffc0cb,100:ff69b4&text=Astha&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=000000"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:fff5f7,50:ffd6e0,100:ff8fab&text=Astha&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=000000"/>
 <p align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+Enthusiast;React+%7C+Node+%7C+MongoDB;Building+Futuristic+Web+Experiences;Always+Learning+New+Technologies"/>
