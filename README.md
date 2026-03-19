@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ff0080,50:7928ca,100:2afadf&text=Debasmita&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ff0080,50:7928ca,100:2afadf&text=Astha_Sah&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
 
 <p align="center">
 
