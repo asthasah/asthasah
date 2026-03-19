@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ff0080,50:7928ca,100:2afadf&text=Astha&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:3e2723,50:6d4c41,100:d7ccc8&text=Astha&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
 
 <p align="center">
 
@@ -87,7 +87,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Debasmita2003&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asthasah&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -95,7 +95,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Debasmita2003/Debasmita2003/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/asthasah/asthasah/output/github-contribution-grid-snake-dark.svg">
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/216654112-7e7a0a61-3f1c-4a8f-91c1-1fa53232fdd3.gif"/>
 
