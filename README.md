@@ -98,4 +98,4 @@
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/216654112-7e7a0a61-3f1c-4a8f-91c1-1fa53232fdd3.gif"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2afadf,50:7928ca,100:ff0080&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ffffff,50:ffc0cb,100:ff69b4&text=Astha&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=000000"/>
