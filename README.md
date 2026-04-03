@@ -1,4 +1,4 @@
-<h2 align="center">✨Code. Create. Inspire✨</h2>
+<h2 align="center">✨Code. Create. Conqure✨</h2>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ffffff,50:ffc0cb,100:ff69b4&text=Astha&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=000000"/>
 <p align="center">
 
