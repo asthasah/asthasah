@@ -19,6 +19,10 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284103-0c8bfa28-97c0-4d4f-b6f4-9bcb5fce3c8a.gif">
 
+<p align="center">
+<img src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" width="100%">
+</p>
+
 
 ## 🌐 Connect With Me
 
