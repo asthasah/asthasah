@@ -28,6 +28,7 @@
 
 ## 🌐 Connect With Me
 
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/astha-sah-88494a321/">
@@ -62,6 +63,10 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284110-1c7d2b88-93bb-4eaa-9f89-63f1d6d6bff1.gif">
+
+<p align="center">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%">
+</p>
 
 
 ## 🛠 Tech Stack
