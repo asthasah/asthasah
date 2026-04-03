@@ -123,3 +123,15 @@ And growing every single day 💫
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ffffff,50:ffc0cb,100:ff69b4&section=footer"/>
+
+## 🎮 Play My Game
+
+<p align="center">
+<a href="https://your-username.github.io/bug-hunter-game">
+<img src="https://img.shields.io/badge/Play%20Bug%20Hunter-ff69b4?style=for-the-badge&logo=gamepad"/>
+</a>
+</p>
+
+<p align="center">
+💡 Can you beat my high score? 
+</p>
