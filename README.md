@@ -17,16 +17,25 @@
 ⚡ Love creating **modern and futuristic interfaces**  
 
 🌱 Currently exploring **Advanced Full Stack Development**
+## 📖 My Journey
+
+Started with curiosity,  
+Faced confusion, bugs, and errors.
+
+But never stopped learning 🚀  
+
+Now building real-world projects  
+And growing every single day 💫
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284103-0c8bfa28-97c0-4d4f-b6f4-9bcb5fce3c8a.gif">
 
 <p align="center"> <img src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" width="100%"> </p>
 
+## Currently working on Python based projects. Something exciting is coming soon!
 
 
-
-## 🌐 Connect With Me
+## 🌐 Connect With Me ☺︎
 
 
 <p align="center">
@@ -46,8 +55,6 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284124-8e15cc9b-9e52-4b43-9b16-2a60f7ce2494.gif">
-
-
 
 
 ## 🧠 Developer Badges
