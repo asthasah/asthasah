@@ -1,3 +1,4 @@
+<h2 align="center">✨Code. Create. Inspire✨</h2>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ffffff,50:ffc0cb,100:ff69b4&text=Astha&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=000000"/>
 <p align="center">
 
@@ -17,9 +18,13 @@
 
 🌱 Currently exploring **Advanced Full Stack Development**
 
+
 <img src="https://user-images.githubusercontent.com/74038190/212284103-0c8bfa28-97c0-4d4f-b6f4-9bcb5fce3c8a.gif">
 
 <p align="center"> <img src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" width="100%"> </p>
+
+
+
 
 ## 🌐 Connect With Me
 
@@ -40,6 +45,8 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284124-8e15cc9b-9e52-4b43-9b16-2a60f7ce2494.gif">
+
+
 
 
 ## 🧠 Developer Badges
@@ -98,5 +105,9 @@
 <img src="https://raw.githubusercontent.com/asthasah/asthasah/output/github-contribution-grid-snake-dark.svg">
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/216654112-7e7a0a61-3f1c-4a8f-91c1-1fa53232fdd3.gif"/>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&color=FF69B4&center=true&vCenter=true&width=600&lines=>+Initializing...;>+Loading+Projects...;>+Keep+Coding+💻"/>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ffffff,50:ffc0cb,100:ff69b4&section=footer"/>
