@@ -136,7 +136,7 @@ And growing every single day 💫
 </h4>
 <p align="center">
 
-<a href="https://asthasah.github.io/bug-hunter-game/?v=2">
+<a href="https://asthasah.github.io/bug-hunter-game/">
 <img src="https://img.shields.io/badge/Play%20Bug%20Hunter-ff69b4?style=for-the-badge&logo=gamepad"/>
 </a>
 
