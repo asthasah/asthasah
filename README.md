@@ -125,3 +125,23 @@ And growing every single day 💫
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ffffff,50:ffc0cb,100:ff69b4&section=footer"/>
 
 
+<h2 align="center" style="font-family:cursive; color:#ff69b4;">
+✨ Play My Bug Hunter Game ✨
+</h2>
+<h3 align="center" style="font-family:cursive; color:#ff69b4;">
+  Fix bugs, beat the timer & challenge yourself! 
+</h3>
+<h4 align="center" style="font-family:cursive; color:#ff69b4;">
+  Click here 👇
+</h4>
+<p align="center">
+
+<a href="https://asthasah.github.io/bug-hunter-game/">
+<img src="https://img.shields.io/badge/Play%20Bug%20Hunter-ff69b4?style=for-the-badge&logo=gamepad"/>
+</a>
+
+</p>
+
+<p align="center">
+💡 Can you beat my high score? 
+</p> 
