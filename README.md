@@ -106,7 +106,7 @@ And growing every single day 💫
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asthasah&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asthasah&theme=tokyonight&hide_border=true&v=2"/>
 
 </p>
 
