@@ -114,7 +114,7 @@ And growing every single day 💫
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/asthasah/asthasah/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/asthasah/asthasah/output/github-contribution-grid-snake-dark.svg?v=1">
 </p>
 <img src="https://user-images.githubusercontent.com/74038190/216654112-7e7a0a61-3f1c-4a8f-91c1-1fa53232fdd3.gif"/>
 
