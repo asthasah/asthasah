@@ -57,49 +57,63 @@ And growing every single day 💫
 <img src="https://user-images.githubusercontent.com/74038190/212284124-8e15cc9b-9e52-4b43-9b16-2a60f7ce2494.gif">
 
 
-## 🧠 Developer Badges
+<h2 align="center">⚡ Quick Profile Cards</h2>
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Backend-NodeJS-green?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb"/>
-<img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/Framework-NextJS-black?style=for-the-badge&logo=next.js"/>
+| 💻 Languages | 🎨 Frontend | 🚀 Framework | ⚙️ Backend | 🗄️ Database | ☁️ Deployment |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black) | ![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | &nbsp; | &nbsp; | ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
-</p>
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284110-1c7d2b88-93bb-4eaa-9f89-63f1d6d6bff1.gif">
-
-<p align="center">
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%">
-</p>
+<br />
+<br />
 
 
-## 🛠 Tech Stack
 
-### 🚀 Languages
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Python](https://skillicons.dev/icons?i=python)
-![C++](https://skillicons.dev/icons?i=cpp)
 
-### 🎨 Frontend
-![React](https://skillicons.dev/icons?i=react)
-![NextJS](https://skillicons.dev/icons?i=nextjs)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+<h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-### ⚙ Backend
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
+<div align="center">
 
-### 🗄 Database
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+<table border="0">
+  <tr>
+    <td align="center" width="500" bgcolor="#0d1117" style="padding: 15px; border-radius: 12px;">
+      <p><b>⚡ Languages</b></p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=java,python,cpp&theme=dark" height="60" alt="Languages" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="500" bgcolor="#0d1117" style="padding: 15px; border-radius: 12px;">
+      <p><b>🎨 Frontend Development</b></p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" height="60" alt="Frontend" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="500" bgcolor="#0d1117" style="padding: 15px; border-radius: 12px;">
+      <p><b>⚙️ Backend & Database</b></p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=dark" height="60" alt="Backend" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="500" bgcolor="#0d1117" style="padding: 15px; border-radius: 12px;">
+      <p><b>🧰 Tools & Platforms</b></p>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=postman,git,github,vscode&theme=dark" height="60" alt="Tools" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 🧰 Tools
-![Postman](https://skillicons.dev/icons?i=postman)
+</div>
 
 
 ## 🔥 GitHub Streak
