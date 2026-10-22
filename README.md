@@ -1,8 +1,9 @@
 <h2 align="center">✨Code. Create. Conquer✨</h2>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:ffffff,50:ffc0cb,100:ff69b4&text=Astha&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=000000"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:ffffff,50:008080,100:00bfff&text=Astha%20Sah&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&font=PinyonScript&desc=%20Welcome%20To%20My%20Profile!%20&descSize=22&descAlignY=65&descColor=ffffff&descFont=Caveat&section=header"/>
+
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+Enthusiast;React+%7C+Node+%7C+MongoDB;Building+Futuristic+Web+Experiences;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;AI+Enthusiast;React+%7C+Node+%7C+MongoDB;Building+Futuristic+Web+Experiences;Always+Learning+New+Technologies"/>
 
 </p>
 
@@ -119,10 +120,10 @@ And growing every single day 💫
 <img src="https://user-images.githubusercontent.com/74038190/216654112-7e7a0a61-3f1c-4a8f-91c1-1fa53232fdd3.gif"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&color=FF69B4&center=true&vCenter=true&width=600&lines=>+Initializing...;>+Loading+Projects...;>+Keep+Coding+💻"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&color=008080&center=true&vCenter=true&width=600&lines=>+Initializing...;>+Loading...;>+Keep+Coding+💻"/>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ffffff,50:ffc0cb,100:ff69b4&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:ffffff,50:008080,100:00bfff&section=footer"/>
+<br>
 
 
 <h2 align="center" style="font-family:cursive; color:#ff69b4;">
