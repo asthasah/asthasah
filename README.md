@@ -33,7 +33,7 @@ And growing every single day 💫
 
 <p align="center"> <img src="https://media.giphy.com/media/hrSFdM4rg8VFpXyz2m/giphy.gif" width="100%"> </p>
 
-## Currently working on Python based projects. Something exciting is coming soon!
+## Currently working on MERN-Stack based projects. Something exciting is coming soon!
 
 
 ## 🌐 Connect With Me ☺︎
